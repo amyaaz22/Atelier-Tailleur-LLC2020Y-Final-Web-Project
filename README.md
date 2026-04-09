@@ -1,6 +1,6 @@
 # Atelier Tailleur (University Project)
 
-This is a PHP + MySQL (XAMPP) web project for a university assignment.
+This is a PHP + MySQL (XAMPP) web project for Atelier Tailleur.
 
 **Requirements**
 1. XAMPP installed (Apache + MySQL)
@@ -38,5 +38,4 @@ Optional manual setup:
    - Open `http://localhost/atelier_tailleur/atelier_tailleur/admin/admin.php`
 
 **Notes**
-1. This is a coursework project, so the password reset is a demo flow (reset link is shown on screen).
-2. No paid GitHub subscription is needed to host this code. A free GitHub account is sufficient.
+1. This is a project, so the password reset is a demo flow (reset link is shown on screen).
