@@ -70,7 +70,7 @@ include 'header.php';
     <div class="cards-grid">
       <div class="card reveal" style="text-align:center; padding:28px;">
         <div style="height:160px; overflow:hidden; border-radius:6px; margin-bottom:14px;">
-          <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face" alt="Moosan Aumeer" style="width:100%; height:100%; object-fit:cover;">
+          <img src="images/mensuit.webp" alt="Moosan Aumeer" style="width:100%; height:100%; object-fit:cover;">
         </div>
         <h3>Moosan Aumeer</h3>
         <p style="color:var(--gold); font-size:13px; margin-bottom:8px;">Head Tailor &amp; Founder</p>
@@ -78,7 +78,7 @@ include 'header.php';
       </div>
       <div class="card reveal" style="text-align:center; padding:28px;">
         <div style="height:160px; overflow:hidden; border-radius:6px; margin-bottom:14px;">
-          <img src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop&crop=face" alt="Tahera Beekharry" style="width:100%; height:100%; object-fit:cover;">
+          <img src="images/eveninggown.avif" alt="Tahera Beekharry" style="width:100%; height:100%; object-fit:cover;">
         </div>
         <h3>Tahera Beekharry</h3>
         <p style="color:var(--gold); font-size:13px; margin-bottom:8px;">Women's Dress Specialist</p>
@@ -86,7 +86,7 @@ include 'header.php';
       </div>
       <div class="card reveal" style="text-align:center; padding:28px;">
         <div style="height:160px; overflow:hidden; border-radius:6px; margin-bottom:14px;">
-          <img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop&crop=face" alt="Amyaaz Aumeer" style="width:100%; height:100%; object-fit:cover;">
+          <img src="images/shirtalteration.jpg" alt="Amyaaz Aumeer" style="width:100%; height:100%; object-fit:cover;">
         </div>
         <h3>Amyaaz Aumeer</h3>
         <p style="color:var(--gold); font-size:13px; margin-bottom:8px;">Operations Manager</p>
